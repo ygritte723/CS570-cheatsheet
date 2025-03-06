@@ -10,7 +10,7 @@ This repository contains a LaTeX-formatted cheatsheet for **CS 570 - Data Mining
 - **Semester:** Spring 2025  
 
 
-![LaTeX Cheatsheet Preview](latex_cheatsheet_master-3.pdf)
+![LaTeX Cheatsheet Preview](img_cheastsheet.png)
 📄 **[Download PDF](latex_cheatsheet_master-3.pdf)**  
 
 ## 📌 Topics Covered
