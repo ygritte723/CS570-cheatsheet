@@ -1,4 +1,5 @@
-# LaTeX Cheatsheet for CS 570 - Data Mining
+# Cheatsheet for CS 570 - Data Mining - Midterm 1
+
 
 ## Overview
 This repository contains a LaTeX-formatted cheatsheet for **CS 570 - Data Mining** at **Emory University**. The document provides a concise and structured summary of key concepts, algorithms, and mathematical formulations relevant to data mining.
