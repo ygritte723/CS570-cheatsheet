@@ -10,40 +10,13 @@ This repository contains a LaTeX-formatted cheatsheet for **CS 570 - Data Mining
 - **Semester:** Spring 2025  
 
 
-## Topics Covered
-### 1. Preprocessing
-- Data integration, redundancy handling  
-- Data reduction (parametric and non-parametric methods)  
-- Data transformation (Min-Max, Z-score, and Decimal scaling normalization)  
+![LaTeX Cheatsheet Preview](latex_cheatsheet_master-3.pdf)
+📄 **[Download PDF](latex_cheatsheet_master-3.pdf)**  
 
-### 2. Dimensionality Reduction
-- **Curse of Dimensionality**: Sparsity, loss of meaningful distance measures  
-- **PCA**: Eigenvalue decomposition
-
-### 3. Pattern Mining
-- **Frequent itemsets**: Apriori algorithm, FP-Growth  
-- **Association rules**: Support, confidence, lift  
-- **Sequential pattern mining**: Generalized Sequential Pattern (GSP)  
-
-### 4. Similarity Search
-- **Distance metrics**: Minkowski, Jaccard  
-- **Collaborative Filtering**: User-based and Item-based nearest neighbors  
-- **Dimensionality reduction via hashing**: Locality-Sensitive Hashing (LSH), MinHash  
-
-### 5. Classification
-- **Decision Trees**: Entropy, Information Gain  
-- **Bayesian Classifiers**: Naïve Bayes, Conditional Independence  
-- **Linear Models**: Logistic Regression, kNN
-- **Support Vector Machines**: Kernel Trick, Quadratic Programming  
-
-### 6. Clustering
-- **Partitioning Methods**: K-means, K-medoids, Bisecting K-means  
-- **Hierarchical Methods**: Agglomerative vs. Divisive  
-- **Density-Based Methods**: DBSCAN
-- **Clustering Evaluation**: BCubed Precision/Recall, Silhouette Score  
-
-### 7. Outlier Detection
-- **Statistical Methods**: Z-score, Grubb’s Test, Mahalanobis Distance  
-- **Proximity-based Methods**: k-distance, LOF  
-- **Clustering-based Methods**: DBSCAN-based outlier detection, CBLOF  
-
+## 📌 Topics Covered
+- **Preprocessing**: Normalization, Feature selection  
+- **Dimensionality Reduction**: PCA, Curse of dimensionality  
+- **Pattern Mining**: Apriori, FP-Growth, GSP  
+- **Classification**: Decision Trees, Naïve Bayes, SVM, Logistic Regression  
+- **Clustering**: K-means, DBSCAN, Hierarchical Clustering  
+- **Outlier Detection**: Z-score, LOF, CBLOF  
